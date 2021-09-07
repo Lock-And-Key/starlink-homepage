@@ -25,6 +25,10 @@ body {
     padding-bottom: 45%!important;
 }
 
+.opci {
+    opacity: 0;
+}
+
 .bg-dark {
     background-color: 5097D5 !important;
 }
