@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #21153b url(../img/bgs/main-bg.jpg) top center no-repeat;
+    background: #5097D5 url(../img/bgs/main-bg.jpg) top center no-repeat;
     background-size: 100%;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .display-1 {
-    font-family: 'archery_black_roundedregular';
+    font-family: 'Helvetica';
     font-size: 6rem!important;
     text-transform: uppercase;
 }
@@ -69,12 +69,12 @@ body {
 .text-shadow {text-shadow: 1px 1px 3px #372677; margin-bottom: -20px; }
 
 #roadmap {
-    background: #21153b url(../img/bgs/bg-middle.jpg) center no-repeat;
+    background: #5097D5 url(../img/bgs/bg-middle.jpg) center no-repeat;
     background-size: 100%;
 }
 
 .stars-bg {
-    background: #21153b url(../img/bgs/bg-stars.jpg) top center no-repeat;
+    background: #5097D5 url(../img/bgs/bg-stars.jpg) top center no-repeat;
     background-size: 100%;
 }
 
