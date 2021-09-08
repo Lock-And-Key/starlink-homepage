@@ -10,6 +10,9 @@ body {
     background: #308BE4 url(../img/bgs/main-bg.jpg) top center no-repeat;
     background-size: 100%;
 }
+.gamestardoge {
+    margin-bottom: 3em;
+}
 
 .navbar-dark .navbar-brand img {
     width: 50%;
