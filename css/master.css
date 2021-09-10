@@ -73,7 +73,7 @@ body {
 
 .sub-head {color: #FFAE1E!important; }
 .hero-banner .sub-head {letter-spacing: 7px!important; margin-bottom: 3em;}
-.text-shadow {text-shadow: 1px 1px 3px #372677; margin-bottom: -20px; }
+.text-shadow {text-shadow: 1px 1px 3px #372677; margin-bottom: 15px; }
 
 #roadmap {
     background: #308BE4 url(../img/bgs/bg-middle.jpg) center no-repeat;
@@ -99,7 +99,7 @@ body {
 
 
 @media (min-width: 360px){
-    .display-1 {font-size: 6em!important; letter-spacing: 2px!important; font-weight: normal!important;}
+    .display-1 {font-size: 3em!important; letter-spacing: 2px!important; font-weight: normal!important;}
     body{background-size: 140%;}
     .hero-banner {padding-top: 60%!important;}
     .navbar-dark .navbar-brand img {width: 70%!important;}
